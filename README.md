@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Eliot! 
-😄 Pronouns: she/her
+Pronouns: she/her
 
 After 15+ years in the service industry I started studying at Epicodus Coding School in January 2023.
 
