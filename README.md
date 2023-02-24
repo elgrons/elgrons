@@ -9,7 +9,7 @@
 <p align="center">I love to collaborate and receive feedback.
 <br>Reach me at: eliot.lauren@gmail.com </p>
 
-<h3 align="center">I'm becoming proficient in:</h3>
+I'm becoming proficient in:
 
 
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&fill=BD4A0B)
@@ -19,8 +19,10 @@
 
 ![Eliot's stats](https://github-readme-stats.vercel.app/api?username=elgrons&show_icons=true&theme=calm)
 
-
-<p align="center"> When I'm AWK I like to:
+ When I'm AWK I like to:
+<br>
 - Read science fiction & fantasy novels 
+<br>
 - Go to concerts & listen to music
+<br>
 - Recipe collect & cook plant-based goodies </p>
