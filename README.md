@@ -1,4 +1,4 @@
-### Oh hi, 👋 I'm Eliot! 
+### Oh hi, I'm Eliot! 
 Pronouns: she/her
 
 After 15+ years as a service industry professional, I started studying at Epicodus Coding School in January 2023.
