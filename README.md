@@ -4,7 +4,7 @@
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <h3 align="center">_pronouns: she/her_</h3>
 
-<h3 align="center">After 15+ years as a service industry professional, I started studying at Epicodus Coding School in January 2023.</h3
+<h3 align="center">After 15+ years as a service industry professional, I started studying at Epicodus Coding School in January 2023.</h3>
 
 <h3 align="center">I love to collaborate and receive feedback.
 <br>Reach me at: eliot.lauren@gmail.com
