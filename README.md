@@ -1,10 +1,10 @@
 ### Oh hi, I'm Eliot! 
 _pronouns: she/her_
-<br>Reach me at: eliot.lauren@gmail.com
 
 After 15+ years as a service industry professional, I started studying at Epicodus Coding School in January 2023.
 
-I love to collaborate and receive feedback. 
+I love to collaborate and receive feedback.
+<br>Reach me at: eliot.lauren@gmail.com
 
 I'm becoming proficient in:
 
