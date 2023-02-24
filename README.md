@@ -7,7 +7,7 @@
 <h3 align="center">After 15+ years as a service industry professional, I started studying at Epicodus Coding School in January 2023.</h3>
 
 <p align="center">I love to collaborate and receive feedback.
-<br>Reach me at: eliot.lauren@gmail.com
+<br>Reach me at: <a href=mailto:“eliot.lauren@gmail.com”>eliot.lauren@gmail.com</a></p>
 
 I'm becoming proficient in:
 
@@ -20,9 +20,8 @@ I'm becoming proficient in:
 ![Eliot's stats](https://github-readme-stats.vercel.app/api?username=elgrons&show_icons=true&theme=calm)
 
  When I'm AWK I like to:
-<br>
 - Read science fiction & fantasy novels 
 <br>
 - Go to concerts & listen to music
 <br>
-- Recipe collect & cook plant-based goodies </p>
+- Recipe collect & cook plant-based goodies
