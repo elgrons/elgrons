@@ -1,7 +1,7 @@
 ### Oh hi, 👋 I'm Eliot! 
 Pronouns: she/her
 
-After 15+ years as a service industry professional, I started studying at Epicodus Coding School in January 2023 with the intention to become a pro programmer. I'm excited to develop my skills and show them off!
+After 15+ years as a service industry professional, I started studying at Epicodus Coding School in January 2023.
 
 I'm becoming proficient in:
 
