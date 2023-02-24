@@ -1,3 +1,8 @@
+<img
+  src="/Users/eliotgronstal/Desktop/PhotoBanner.png"
+  alt="photobanner"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
 ### Oh hi, I'm Eliot! 
 _pronouns: she/her_
 
