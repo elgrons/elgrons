@@ -2,11 +2,11 @@
   src="https://user-images.githubusercontent.com/121843232/221113890-43c37946-534d-4c2e-baef-7146b4923b86.png"
   alt="photobanner"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
-_pronouns: she/her_
+<h3 align="center">_pronouns: she/her_</h3>
 
-After 15+ years as a service industry professional, I started studying at Epicodus Coding School in January 2023.
+<h3 align="center">After 15+ years as a service industry professional, I started studying at Epicodus Coding School in January 2023.</h3
 
-I love to collaborate and receive feedback.
+<h3 align="center">I love to collaborate and receive feedback.
 <br>Reach me at: eliot.lauren@gmail.com
 
 I'm becoming proficient in:
@@ -21,4 +21,4 @@ I'm becoming proficient in:
 When I'm AWK I like to:
 - Read science fiction & fantasy novels 
 - Go to concerts & listen to music
-- Recipe collect & cook plant-based goodies
+- Recipe collect & cook plant-based goodies</h3
