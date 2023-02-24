@@ -20,8 +20,6 @@ I'm becoming proficient in:
 ![Eliot's stats](https://github-readme-stats.vercel.app/api?username=elgrons&show_icons=true&theme=calm)
 
  When I'm AWK I like to:
-- Read science fiction & fantasy novels 
-<br>
-- Go to concerts & listen to music
-<br>
-- Recipe collect & cook plant-based goodies
+* Read science fiction & fantasy novels 
+* Go to concerts & listen to music
+* Recipe collect & cook plant-based goodies
