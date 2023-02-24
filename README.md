@@ -5,9 +5,9 @@ After 15+ years as a service industry professional, I started studying at Epicod
 
 I'm becoming proficient in:
 
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&fill=B4864F)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=CSharp&fill=B4864F)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=JavaScript&fill=B4864F)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&fill=68513E)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=CSharp&fill=68513E)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=JavaScript&fill=68513E)
 
 
 ![Eliot's stats](https://github-readme-stats.vercel.app/api?username=elgrons&show_icons=true&theme=calm)
