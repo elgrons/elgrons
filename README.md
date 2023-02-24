@@ -1,7 +1,10 @@
 ### Oh hi, I'm Eliot! 
-Pronouns: she/her
+_pronouns: she/her_
+Reach me at: eliot.lauren@gmail.com
 
 After 15+ years as a service industry professional, I started studying at Epicodus Coding School in January 2023.
+
+I love to collaborate and receive feedback. 
 
 I'm becoming proficient in:
 
@@ -16,7 +19,3 @@ When I'm AWK I like to:
 - Read science fiction & fantasy novels 
 - Go to concerts & listen to music
 - Recipe collect & cook plant-based goodies
-
-I love to collaborate and receive feedback. 
-
-Reach me at: eliot.lauren@gmail.com
