@@ -1,5 +1,5 @@
 <img
-  src="[image](https://user-images.githubusercontent.com/121843232/221113890-43c37946-534d-4c2e-baef-7146b4923b86.png)"
+  src="https://user-images.githubusercontent.com/121843232/221113890-43c37946-534d-4c2e-baef-7146b4923b86.png"
   alt="photobanner"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
