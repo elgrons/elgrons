@@ -1,5 +1,5 @@
 <img
-  src="/Users/eliotgronstal/Desktop/PhotoBanner.png"
+  src="![image](https://user-images.githubusercontent.com/121843232/221113663-233ac2ee-2edc-4c38-abdd-f6628ac02395.png)"
   alt="photobanner"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
