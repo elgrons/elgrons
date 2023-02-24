@@ -6,8 +6,8 @@
 
 <h3 align="center">After 15+ years as a service industry professional, I started studying at Epicodus Coding School in January 2023.</h3>
 
-I love to collaborate and receive feedback.
-<br>Reach me at: [eliot.lauren@gmail.com](eliot.lauren@gmail.com)
+<p align="center">I love to collaborate and receive feedback.
+<br>Reach me at: [eliot.lauren@gmail.com](eliot.lauren@gmail.com) </p>
 
 <h3 align="center">I'm becoming proficient in:</h3>
 
