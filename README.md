@@ -21,5 +21,6 @@ I'm becoming proficient in:
 
  When I'm AWK I like to:
 * Read science fiction & fantasy novels 
+* Practice vinyasa yoga
 * Go to concerts & listen to music
 * Recipe collect & cook plant-based goodies
