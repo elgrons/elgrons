@@ -13,13 +13,9 @@
 
 I'm becoming proficient in:
 
-
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&fill=BD4A0B)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=CSharp&fill=BD4A0B)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=JavaScript&fill=BD4A0B)
-
-
-![Eliot's stats](https://github-readme-stats.vercel.app/api?username=elgrons&show_icons=true&theme=calm)
 
  When I'm AWK I like to:
 * Read science fiction & fantasy novels 
