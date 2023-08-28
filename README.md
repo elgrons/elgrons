@@ -16,9 +16,3 @@ I'm becoming proficient in:
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&fill=BD4A0B)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=CSharp&fill=BD4A0B)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=JavaScript&fill=BD4A0B)
-
- When I'm AWK I like to:
-* Read science fiction & fantasy novels 
-* Practice vinyasa yoga
-* Go to concerts & listen to music
-* Recipe collect & cook plant-based goodies
