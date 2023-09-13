@@ -8,7 +8,7 @@
 <p align="center">I love to collaborate and receive feedback.
 <br>Reach me at: <a href=mailto:“eliot.lauren@gmail.com”>eliot.lauren@gmail.com</a></p>
 
-<p align="center">View my <a href="https://eliot-gronstal-porfolio.vercel.app/">dev portfolio.</a></p>
+<p align="center">View my <a href="https://www.eliotgronstal.com/">dev portfolio.</a></p>
 
 I'm becoming proficient in:
 
