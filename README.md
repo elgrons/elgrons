@@ -9,9 +9,3 @@
 <br>Reach me at: <a href=mailto:“eliot.lauren@gmail.com”>eliot.lauren@gmail.com</a></p>
 
 <p align="center">View my <a href="https://www.eliotgronstal.com/">dev portfolio.</a></p>
-
-I'm becoming proficient in:
-
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&fill=BD4A0B)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=CSharp&fill=BD4A0B)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=JavaScript&fill=BD4A0B)
