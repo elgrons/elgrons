@@ -6,6 +6,5 @@
 <h3 align="center">✨always learning, always smiling, always debugging.✨</h3>
 
 <p align="center">I love to collaborate and receive feedback.
-<br>Reach me at: <a href=mailto:“eliot.lauren@gmail.com”>eliot.lauren@gmail.com</a></p>
 
 <p align="center">View my <a href="https://www.eliotgronstal.com/">dev portfolio.</a></p>
